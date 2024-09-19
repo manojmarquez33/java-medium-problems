@@ -30,6 +30,7 @@
  * */
 
 import java.util.Scanner;
+import com.mano.p
 public class RectangularSum {
 
     public static void main(String[] args) {

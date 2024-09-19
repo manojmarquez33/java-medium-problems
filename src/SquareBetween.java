@@ -1,4 +1,3 @@
-
 /**
 Squares Between A and B
 

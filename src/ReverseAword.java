@@ -1,24 +1,3 @@
-/*A string value is passed as input. Reverse the words in the string and print them as the output.
-Input Format:
-The first line will contain value of the string S.
-Boundary Conditions:
-Length of the input string will be from 5 to 200.
-Output Format:
-The words in the string in the reversed order.
-
-Example Input/Output 1:
-Input:
-first second third
-Output:
-third second first
-
-Example Input/Output 2:
-Input:
-I went to Chennai
-Output:
-Chennai to went I
-
-* */
 import java.util.Scanner;
 
 public class ReverseAword {
